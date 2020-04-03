@@ -1,0 +1,1 @@
+<div style="text-align: center;">Papier Kamień Nożyce - Projekt Indywidualny<br><small>autorstwa Jan Szewczyk</small></div>
